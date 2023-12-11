@@ -69,7 +69,7 @@ form.addEventListener("submit",function(event){
     let sgpa = total_product/total_cre;
 
     if(error===false){
-        console.log("anitha");
+        console.log("SOLMONRAJU");
         console.log(result);
         result.textContent = "SGPA is "+sgpa;
     }
